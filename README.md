@@ -26,4 +26,4 @@ Enter a number or operation: -
 -4.0
 ```
 
-More operations coming soon!
+/!\ More operations coming soon.
