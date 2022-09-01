@@ -26,4 +26,6 @@ Enter a number or operation: -
 -4.0
 ```
 
-/!\ More operations coming soon.
+# Reference
+
+https://en.wikipedia.org/wiki/Reverse_Polish_notation
